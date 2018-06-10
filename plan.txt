@@ -1,0 +1,10 @@
+I plan to compare performances of following algorithms in their scratch code 
+form vs sklearn (or other python libraries).
+
+kmeans
+linear regression
+logistic regression
+backpropogation
+decision tree
+random forest
+gradient boosting machines
